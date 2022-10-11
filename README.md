@@ -81,6 +81,7 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 ![image014](https://user-images.githubusercontent.com/105663796/195103401-b79a7a61-ea7d-4be1-9ea0-12f82713ef27.png)
 
 8.	What 5 cities have the most Sunshine Hours?
+
 ![image015](https://user-images.githubusercontent.com/105663796/195103467-02777d45-2ee3-4ccc-bd77-cb92783db08a.png)
 
 9.	What are the cities with the most and least Happiness levels?
@@ -92,7 +93,11 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 2.	It was difficult coming to a generalized finding because the dataset contains just 44 cities and not every city in the world.
 
 ---
-#Relevant Links
+# Relevant Links
+- Link to Excel Dashboard
+- Link to Medium article
+- Link to Linkedin
+- Link to Portfolio Website
 
 
 
