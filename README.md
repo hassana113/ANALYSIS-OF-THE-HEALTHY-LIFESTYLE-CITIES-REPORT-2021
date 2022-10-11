@@ -96,7 +96,7 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 # Relevant Links
 - Link to Excel Dashboard
 - Link to Medium article
-- [LinkedIn](www.linkedin.com/in/hassana-abdulkadir-1639301b8)
+- [LinkedIn](https://www.linkedin.com/in/hassana-abdulkadir-1639301b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL6dbF7nASnGNqEF943ZNFQ%3D%3D)
 - Link to Portfolio Website
 
 
