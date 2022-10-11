@@ -35,7 +35,7 @@ A starting point for the EDA was to perform descriptive statistics. This was don
 **Descriptive statistics** was performed to summarize and describe the characteristics of the dataset.
 ![Descriptive statistics](https://user-images.githubusercontent.com/105663796/195101771-70e14ced-ed31-4b24-958d-0b31d2f6ac2f.jpg)
 
-To further analyze the relationship within the datasets, **Correlation Matrix** was performed using the data analysis tool pack in Microsoft excel.
+To further analyze the relationship within the datasets, **Correlation Matrix** was created using the data analysis tool pack in Microsoft excel.
 Half of the matrix is complete, this is because the results would be the same if the empty cells are calculated.
 ![Correlation Matrix](https://user-images.githubusercontent.com/105663796/195101841-f5d3a8df-384f-48d8-a58c-f658c84f5313.jpg)
 
