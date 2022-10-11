@@ -19,8 +19,8 @@ The Rank in the datasets will be ignored and more attention will be placed on th
 
 ----
 # Data Sourcing
-The dataset was downloaded from Kaggle and imported into Microsoft Excel. 44 cities across the globe were analyzed by the team at Lenstore across 10 healthy living metrics.
-https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021
+The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/prasertk/healthy-lifestyle-cities-report-2021) and imported into Microsoft Excel. 44 cities across the globe were analyzed by the team at Lenstore across 10 healthy living metrics. You can read more about the dataset [here](https://www.lenstore.co.uk/research/healthy-lifestyle-report/) .
+
 
 ---
 # Data Cleaning
@@ -32,10 +32,10 @@ The column width was increased, Misspellings and Duplicates were checked for and
 # Exploratory Data Analysis (EDA)
 To dig further into the data, Exploratory Data Analysis was performed. 
 A starting point for the EDA was to perform descriptive statistics. This was done to offer a concise overview of how different observations in the dataset are distributed.
-Descriptive statistics was performed to summarize and describe the characteristics of the dataset.
+**Descriptive statistics** was performed to summarize and describe the characteristics of the dataset.
 ![Descriptive statistics](https://user-images.githubusercontent.com/105663796/195101771-70e14ced-ed31-4b24-958d-0b31d2f6ac2f.jpg)
 
-To further analyze the relationship within the datasets, Correlation Matrix was performed using the data analysis tool pack in Microsoft excel.
+To further analyze the relationship within the datasets, **Correlation Matrix** was performed using the data analysis tool pack in Microsoft excel.
 Half of the matrix is complete, this is because the results would be the same if the empty cells are calculated.
 ![Correlation Matrix](https://user-images.githubusercontent.com/105663796/195101841-f5d3a8df-384f-48d8-a58c-f658c84f5313.jpg)
 
@@ -96,7 +96,7 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 # Relevant Links
 - Link to Excel Dashboard
 - Link to Medium article
-- Link to Linkedin
+- [LinkedIn](www.linkedin.com/in/hassana-abdulkadir-1639301b8)
 - Link to Portfolio Website
 
 
