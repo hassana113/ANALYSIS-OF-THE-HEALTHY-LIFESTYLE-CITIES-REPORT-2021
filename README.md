@@ -63,7 +63,8 @@ While the negative correlations include;
 - Life expectancy and Pollution (index score). 
 - Pollution (index score) and Happiness levels.
 
-This means, Life expectancy and Happiness levels are lower in cities with high Pollution levels. High levels of Pollution suppresses economic growth, heightens poverty and is the largest cause of disease and premature death
+This means, Life expectancy and Happiness levels are lower in cities with high Pollution levels. High levels of Pollution suppresses economic growth, heightens poverty and is the largest cause of disease and premature death.
+
 
 3.	What are the Top 2 cities with the most life expectancy?
 ![image010](https://user-images.githubusercontent.com/105663796/195103049-d6e70975-26f1-48c9-867e-b735386ae239.png)
