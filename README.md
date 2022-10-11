@@ -41,8 +41,8 @@ Half of the matrix is complete, this is because the results would be the same if
 
 More analysis was performed using pivot table to answer the following questions;
 1.	What are the Top 2 cities with the most life expectancy?
-2.	What city has the highest Number of take out places?
-3.	What city raked in the most Cost of a monthly gym membership and cost of a bottle of water? 
+2.	What city has the highest Number of take-out places?
+3.	What city raked in the most Cost of a monthly gym membership and Cost of a bottle of water? 
 4.	What American city has the most Outdoor activities?
 5.	What are the top 10 cities with the most Pollution index score?
 6.	What 5 cities have the most Sunshine Hours?
@@ -68,10 +68,10 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 3.	What are the Top 2 cities with the most life expectancy?
 ![image010](https://user-images.githubusercontent.com/105663796/195103049-d6e70975-26f1-48c9-867e-b735386ae239.png)
 
-4.	What city has the highest Number of take out places?
+4.	What city has the highest Number of take-out places?
 ![image011](https://user-images.githubusercontent.com/105663796/195103108-d79118fd-3a33-42b3-94e6-8b45f6c3a713.png)
 
-5.	What city raked in the most Cost of a monthly gym membership and cost of a bottle of water? 
+5.	What city raked in the most Cost of a monthly gym membership and Cost of a bottle of water? 
 ![image012](https://user-images.githubusercontent.com/105663796/195103213-b5cf7d3c-efb3-4376-8f03-724268a848e1.png)
 
 6.	What American city has the most Outdoor activities?
