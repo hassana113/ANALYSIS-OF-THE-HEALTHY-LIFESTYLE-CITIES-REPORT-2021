@@ -90,16 +90,21 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 ![image016](https://user-images.githubusercontent.com/105663796/195103521-6f03d936-8909-4c8a-8568-32924f0d2126.png)
 
 ---
+# Data Visualization
+Excel Dashboard
+
+![Dashboard](https://user-images.githubusercontent.com/105663796/195308671-49164516-18ad-47bb-bfe8-56656bac04da.jpg)
+
+---
 # Limitations
 1.	The dataset was not easily manipulated or analysed because of the missing data, mostly in 13 cells.
 2.	It was difficult coming to a generalized finding because the dataset contains just 44 cities and not every city in the world.
 
 ---
 # Relevant Links
-- Link to Excel Dashboard
-- Link to Medium article
 - [LinkedIn](http://linkedin.com/in/hassana-abdulkadir-1639301b8)
 - [Portfolio Website](https://hassana113.github.io)
+- Link to Medium article
 
 
 
