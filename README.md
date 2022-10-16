@@ -77,7 +77,7 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 ![image012](https://user-images.githubusercontent.com/105663796/195103213-b5cf7d3c-efb3-4376-8f03-724268a848e1.png)
 
 6.	What American city has the most Outdoor activities?
-![image013](https://user-images.githubusercontent.com/105663796/195103297-40d1ae67-208a-49b3-aeca-3dd7000252e9.png)
+![Untitled](https://user-images.githubusercontent.com/105663796/196054609-bf277ba1-359f-4e56-b5c7-426ea58c82de.jpg)
 
 7.	What are the top 10 cities with the most Pollution index score?
 ![image014](https://user-images.githubusercontent.com/105663796/195103401-b79a7a61-ea7d-4be1-9ea0-12f82713ef27.png)
@@ -92,8 +92,9 @@ This means, Life expectancy and Happiness levels are lower in cities with high P
 ---
 # Data Visualization
 Excel Dashboard
+![DASHBOARD](https://user-images.githubusercontent.com/105663796/196054629-2eede3a9-70eb-4548-8456-07b7dc65095c.jpg)
 
-![Dashboard](https://user-images.githubusercontent.com/105663796/195308671-49164516-18ad-47bb-bfe8-56656bac04da.jpg)
+
 
 ---
 # Limitations
