@@ -15,7 +15,7 @@ The aim of this project is to perform an in-depth analysis of the Healthy lifest
 7.	What are the cities with the most and least Happiness levels?
 
 #### The tool used to clean, explore and visualize the dataset is Microsoft Excel
-The Rank in the datasets will be ignored and more attention will be placed on the variables or columns to find the relationships in the dataset.
+The Rank in the datasets will be ignored and more attention will be placed on the variables to find the relationships in the dataset.
 
 ----
 # Data Sourcing
