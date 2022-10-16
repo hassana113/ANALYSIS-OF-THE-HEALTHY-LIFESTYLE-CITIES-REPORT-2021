@@ -101,8 +101,8 @@ Excel Dashboard
 2.	It was difficult coming to a generalized finding because the dataset contains just 44 cities and not every city in the world.
 
 ---
-# Conclusion:Key Takeaways
-1.	Zurich with Geneva, located in Switzerland and Fukuota with Tokyo, located in Japan, are cities with the most Happiness levels, Life expectancy and Cost of bottle of water, proving the summary from the strong positive correlation obtained from the correlation matrix right.
+# Conclusions:Key Takeaways
+1.	Zurich with Geneva, located in Switzerland and Tokyo with Fukuoka, located in Japan, are cities with the most Happiness levels, Life expectancy and Cost of bottle of water, proving the summary from the strong positive correlation obtained from the correlation matrix right.
 
 2.	The Top 10 Polluted cities are not among the cities with most happiness levels, life expectancy and Cost of bottle of water, proving the summary from the strong negative correlation obtained from the correlation matrix right.
 
