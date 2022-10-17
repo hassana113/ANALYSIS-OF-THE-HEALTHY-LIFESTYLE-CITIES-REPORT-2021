@@ -112,7 +112,8 @@ Excel Dashboard
 # Relevant Links
 - [LinkedIn](http://linkedin.com/in/hassana-abdulkadir-1639301b8)
 - [Portfolio Website](https://hassana113.github.io)
-- Link to Medium article
+- [Medium article](https://medium.com/@abdulkadirhassana97)
+
 
 
 
